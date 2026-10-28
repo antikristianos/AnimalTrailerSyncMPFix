@@ -1,0 +1,69 @@
+{
+  "SchemaVersion": 1,
+  "Project": "AnimalTrailerSyncMPFix",
+  "Repository": "antikristianos/AnimalTrailerSyncMPFix",
+  "Branch": "wip",
+  "Tag": "wip-1.63",
+  "ModVersion": "1.3",
+  "CollectionVersion": "1.63",
+  "WorkshopId": 3802764936,
+  "WorkshopUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=3802764936",
+  "UploadManifestSha256": "2DF2A9D193786BC163CE4EA9E9B6232EE0819F421B726E8CA65CB59859AB0AD7",
+  "Artifact": {
+    "Path": "mods/AnimalTrailerSyncMPFix_WIP/42.20/media/java/AnimalTrailerSyncMPFix.jar",
+    "Size": 6230,
+    "Sha256": "010DB9240DE1FCCD5A6FEFD4E27B92F49D7697E7CB47CE94664A73A640DCAB13"
+  },
+  "Sources": [
+    {
+      "Path": ".gitignore",
+      "Size": 8,
+      "Sha256": "020C2606E8ED484089C2083E0BE438B9D0736BEE1558A6B76AF0D58BD23F69CF"
+    },
+    {
+      "Path": "MANIFEST.MF",
+      "Size": 137,
+      "Sha256": "44BE12FC79FF6FC98AB05DDE2398867C4549FC39C1604F50D91BD0882EBA09CF"
+    },
+    {
+      "Path": "README.md",
+      "Size": 1286,
+      "Sha256": "31093BCFD2C47FDAF61F6A1C7738EB54C4F2698E9976C3D56A70F13DEDFC46EB"
+    },
+    {
+      "Path": "build.json",
+      "Size": 1637,
+      "Sha256": "711275C860EB1941D16A628C954CE9F18FB7428D00A3046839B05BBC90610F1C"
+    },
+    {
+      "Path": "build.ps1",
+      "Size": 2600,
+      "Sha256": "8389B7B0B5515387FA5D9B3989FED7C8629DA7762817C03AD266B69DE5B2B0FD"
+    },
+    {
+      "Path": "runtime/42.20/mod.info",
+      "Size": 533,
+      "Sha256": "2D40E9043757AF3C3851D6BEDBAA1FAEA47F6F55A7F11A1EEB1161558601CEF5"
+    },
+    {
+      "Path": "src/antikristianos/animaltrailersyncmpfix/GateScope.java",
+      "Size": 3523,
+      "Sha256": "65F1A3F69B64767DB2E97C3F995F51D55112FE0CEDAABCD7FBA62015080F92F9"
+    },
+    {
+      "Path": "src/antikristianos/animaltrailersyncmpfix/Main.java",
+      "Size": 265,
+      "Sha256": "34A60CB30DA011B1FB297B31EDDB45751B69B838A65580913E25A31C87E6C33C"
+    },
+    {
+      "Path": "src/antikristianos/animaltrailersyncmpfix/PatchTimerCheck.java",
+      "Size": 543,
+      "Sha256": "6C83774221457F6D5B49BBFD76F5BDADF61B4F6D9322F977BA8839092866DC87"
+    },
+    {
+      "Path": "src/antikristianos/animaltrailersyncmpfix/PatchVehicleUpdate.java",
+      "Size": 445,
+      "Sha256": "693EE22EA76525A4506F9F1D136578D922FB8EB23538974D156BD0EA312F9F81"
+    }
+  ]
+}

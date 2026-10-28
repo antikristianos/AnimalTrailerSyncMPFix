@@ -1,0 +1,13 @@
+name=[B42] MP Vanilla Animal Trailer Sync Fix (WIP)
+id=AnimalTrailerSyncMPFix_WIP
+author=Antikristianos
+description=Makes the server synchronize all animals in a livestock trailer during each due Vanilla update, fixing animals hidden behind the single repeatedly updated entry.
+icon=../common/icon.png
+require=\ZombieBuddy
+javaJarFile=media/java/AnimalTrailerSyncMPFix.jar
+javaPkgName=antikristianos.animaltrailersyncmpfix
+ZBVersionMin=2.3.2
+modversion=1.3
+versionMin=42.20.0
+category=Multiplayer
+incompatible=AnimalTrailerSyncMPFix
