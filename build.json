@@ -1,0 +1,49 @@
+{
+  "JavaRelease": 17,
+  "JarName": "AnimalTrailerSyncMPFix.jar",
+  "AdditionalClasspath": [],
+  "Entries": [
+    {
+      "Path": "antikristianos/animaltrailersyncmpfix/GateScope$Frame.class",
+      "Size": 420,
+      "Sha256": "6CFB7BE2F3C1F31BDCB48042D2A5B4B269CA56477ED6947020E7FD776A358528"
+    },
+    {
+      "Path": "antikristianos/animaltrailersyncmpfix/GateScope$State.class",
+      "Size": 854,
+      "Sha256": "2F012F1E471F88AA14CB363FE55EDD4907090473F9EE413C4A41BE92C5C23544"
+    },
+    {
+      "Path": "antikristianos/animaltrailersyncmpfix/GateScope.class",
+      "Size": 4394,
+      "Sha256": "9FE566E86AD5C5E05321445B22E7A72122AFC8F5B42A9770AFBE22C70EDB2A6A"
+    },
+    {
+      "Path": "antikristianos/animaltrailersyncmpfix/Main.class",
+      "Size": 523,
+      "Sha256": "10EE8813C77262E6F02AD222CC66BEDC108EAEF0C7AABC46F9C73CBD452F635E"
+    },
+    {
+      "Path": "antikristianos/animaltrailersyncmpfix/PatchTimerCheck.class",
+      "Size": 1294,
+      "Sha256": "32FD422E09F5426233C0C02D599A232EE64EE6D8F47A4592D2D66E0553C42CD3"
+    },
+    {
+      "Path": "antikristianos/animaltrailersyncmpfix/PatchVehicleUpdate.class",
+      "Size": 1125,
+      "Sha256": "7987EF634D762B09D9CDF7B81925359DFCF992DA21FC77ABA73E89A92EAC9048"
+    }
+  ],
+  "Dependencies": [
+    {
+      "Path": "projectzomboid.jar",
+      "Size": 66254409,
+      "Sha256": "90C54B84EBC160AE053CBEFE30C7713826CA4FDB4934FDE53C9EBDE0FF9892F3"
+    },
+    {
+      "Path": "ZombieBuddy.jar",
+      "Size": 12491692,
+      "Sha256": "79120880FDA051718082BD9BF0C2C2B639450AE73641FDB4631750221A57B208"
+    }
+  ]
+}
