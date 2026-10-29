@@ -3,12 +3,12 @@
   "Project": "AnimalTrailerSyncMPFix",
   "Repository": "antikristianos/AnimalTrailerSyncMPFix",
   "Branch": "wip",
-  "Tag": "wip-1.63",
+  "Tag": "wip-1.64",
   "ModVersion": "1.3",
-  "CollectionVersion": "1.63",
+  "CollectionVersion": "1.64",
   "WorkshopId": 3802764936,
   "WorkshopUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=3802764936",
-  "UploadManifestSha256": "2DF2A9D193786BC163CE4EA9E9B6232EE0819F421B726E8CA65CB59859AB0AD7",
+  "UploadManifestSha256": "E62B8E2B4F740DC36F534BFD4140B7ED7918454ED930F7A73CB028DD35FC94F5",
   "Artifact": {
     "Path": "mods/AnimalTrailerSyncMPFix_WIP/42.20/media/java/AnimalTrailerSyncMPFix.jar",
     "Size": 6230,
@@ -33,7 +33,7 @@
     {
       "Path": "build.json",
       "Size": 1637,
-      "Sha256": "711275C860EB1941D16A628C954CE9F18FB7428D00A3046839B05BBC90610F1C"
+      "Sha256": "82E2321A95413D0BED302371D4B6C8213A8F84F6C6437600D2D5E9AFA857F8D8"
     },
     {
       "Path": "build.ps1",
